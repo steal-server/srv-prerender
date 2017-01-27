@@ -60,7 +60,7 @@
     "dotdotdot": "^1.7.0",
     "dssrv-cli": "^1.0.5",
     "es6-promise": "^4.0.5",
-    "guide-automation": "^0.3.0",
+    "guide-automation": "^0.3.4",
     "is-appveyor": "^1.0.0",
     "istanbul": "^0.4.2",
     "jshint": "^2.8.0",
